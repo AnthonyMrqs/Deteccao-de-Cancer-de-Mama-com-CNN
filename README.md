@@ -33,3 +33,4 @@ model = tf.keras.Sequential([
     Dropout(0.3),
     Dense(2, activation='softmax')
 ])
+```
